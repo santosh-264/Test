@@ -5,7 +5,3 @@ no luck
 what to done
 Bigg success
 another day
-
-updated the file
-Run again
-check now
